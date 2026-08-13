@@ -28,10 +28,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const SEPALS_COUNT = 5;
 
     const FALLING_PETAL_COLORS = [
-        ['#9a001d', '#3d0008'],
-        ['#850018', '#2b0005'],
-        ['#ad0022', '#480008'],
-        ['#bf0028', '#52000c'],
+        ['#e8399a', '#5c0030'],
+        ['#d1177a', '#450024'],
+        ['#f25fa3', '#6b0038'],
+        ['#ff8bc0', '#7d0042'],
     ];
 
     let fallingPetalInterval = null;
